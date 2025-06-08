@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<products>
+        
+    
+    
+    <product>
+                
+        <title>Тест2</title>
+                
+        <manufacturer>Тест</manufacturer>
+                
+        <cost>2000.0</cost>
+            
+    </product>
+        
+    <product>
+                
+        <title>удалить_тест</title>
+                
+        <manufacturer>тест</manufacturer>
+                
+        <cost>3000.0</cost>
+            
+    </product>
+        
+    <product>
+                
+        <title>фыв</title>
+                
+        <manufacturer>фыв</manufacturer>
+                
+        <cost>10230.0</cost>
+            
+    </product>
+    
+</products>
